@@ -1,16 +1,16 @@
-## Hi there 👋
+# Salut, moi c'est Julie ! 👋
 
-<!--
-**Julieinfo/Julieinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en **Licence 3 Informatique** à l'Université de Pau (UPPA), je suis passionnée par le développement web et logiciel. 
 
-Here are some ideas to get you started:
+🚀 Je suis actuellement à la recherche d'une **alternance en développement** à partir de septembre 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mes Compétences & Technologies
+- **Langages :** Python, C, C++, JavaScript, HTML5, CSS3, Dart, C#
+- **Outils & Systèmes :** Git, GitHub, VS Code, Linux, Windows
+- **Domaines :** Développement Web Full-Stack, Applications Mobiles (.NET / Flutter)
+
+### 📈 Mes Projets Phares
+- 🏥 **Plateforme E-Santé** : Un site web complet et dynamique (HTML/CSS/JS).
+- 📱 **Portfolio Mobile** : Conception et développement de 5 applications mobiles (Dart, C#).
+
+📫 **Pour me contacter :** [juliedecastro2003@gmail.com](mailto:juliedecastro2003@gmail.com)
